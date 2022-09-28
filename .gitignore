@@ -1,0 +1,7 @@
+# Ignore these folders
+bin
+libs
+
+# Ignore these formats
+.bat
+.ini
